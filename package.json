@@ -8,9 +8,9 @@
     "react-scripts": "3.2.0"
   },
   "scripts": {
-    "start": "npm start",
-    "build": "npm build",
-    "test": "npm test",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -28,9 +28,7 @@
       "last 1 safari version"
     ]
   },
-  
   "engines": {
     "node": "10.3.0"
   }
-
 }
